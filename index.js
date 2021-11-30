@@ -1,5 +1,5 @@
 require('http').Server((req, res) => {
-  const author = 'itmo287653'
+  const author = 'itmo307699'
 
   res.setHeader('X-Author', author)
   res.setHeader('Content-Type', 'text/plain; charset=UTF-8')
